@@ -1,0 +1,18 @@
+seaborn.boxplot :
+
+A box plot (or box-and-whisker plot) shows the distribution of quantitative data in a way that facilitates comparisons between variables
+or across levels of a categorical variable. The box shows the quartiles of the dataset while the whiskers extend to show the rest of the 
+distribution, except for points that are determined to be “outliers” using a method that is a function of the inter-quartile range.
+
+seaborn.heatmap :
+
+Plot rectangular data as a color-encoded matrix.
+This is an Axes-level function and will draw the heatmap into the currently-active Axes.
+
+Self-Organizing Map : 
+
+A self-organizing map (SOM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a
+low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map, 
+and is therefore a method to do dimensionality reduction. Self-organizing maps differ from other artificial neural networks as they 
+apply competitive learning as opposed to error-correction learning (such as backpropagation with gradient descent), and in the sense 
+that they use a neighborhood function to preserve the topological properties of the input space.
